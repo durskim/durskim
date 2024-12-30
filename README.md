@@ -2,7 +2,7 @@
 
 # BIOGRAFIA
 
-Estou aprendendo programação. Comecei com HTML e CSS mas espero apredender ainda mais e adquirir bastante experiência. 
+Sou biomédica em transição de carreira. Iniciei a graduação em Análise e Desenvolvimento de Sistemas pela UNINTER com previsão de término em novembro de 2026. Busco oportunidades de estágio onde possa aplicar e expandir minhas habilidades em desenvolvimento de sistemas e programação, contribuindo para projetos inovadores e para o crescimento da empresa. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=durskim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
